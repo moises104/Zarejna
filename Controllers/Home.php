@@ -9,7 +9,7 @@
             $data['page_tag'] = "Home";
             $data['page_title']= "Pagina Principal";
             $data['page_name'] = "home";
-            $data['page_functions_js'] = "functionhome.js";
+            $data['page_js'] = "functionhome.js";
             $data['page_content'] = "Lorem Ipsum is simply dumamy text; aute irure dolor in reprehenderit.";
             session_start();
 
