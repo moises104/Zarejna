@@ -6,7 +6,7 @@
     <main class="page landing-page">
         <section class="clean-block clean-hero" style="background-image:url(&quot;Assets/img/fondo.jpg&quot;);color:rgba(181, 181, 181, 0);">
             <div class="text">
-                <h1 class="TituloP">Romeo & Julieta</h1>
+                <h1 class="TituloP">Romeo & Tun</h1>
                 <p style="color: black;">Dile adiós al “no tengo que ponerme”.</p><button class="btn btn-outline-light btn-lg" type="button">Ver mas</button></div>
         </section>
         <section class="clean-block clean-info dark">
